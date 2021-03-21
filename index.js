@@ -29,7 +29,7 @@ user.on('loggedOn', () => {
 	console.log ('/____//_/ /_____/_/      /___/_____/_____/_____/_/ |_|  ');
 	console.log ('                                                        ');
 	console.log ('Welcome to $tep Idler');
-	console.log('Logged on ' + logOnOptions.accountName + ' @ Idler made by Moji#4583 ');
+	console.log('Logged on ' + logOnOptions.accountName + ' @ Idler made by KUMPEL#4808 ');
 	user.setPersona(1);
 	gamesPlayed: config.game,
 	user.gamesPlayed(config.game);
