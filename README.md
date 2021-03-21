@@ -1,6 +1,7 @@
 # STEPIDLER
 
 Q:How to install?
+
 A:Simply just press Install - 1 wait for finnish and pres Install - 2  
 Notepad gonna pop up here you have to put your steam login and password
 also games which you want to idle 
