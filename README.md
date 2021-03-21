@@ -12,7 +12,7 @@ HAVE FUN :)
 LOGIN = YOUR STEAM ACCOUNT LOGIN
 PASS = YOUR STEAM PASSWORD
 
-GAME = YOU HAVE TO PUT ID'S OF GAME YOU WANT TO IDLE - FOR CSGO IS 730 BECOUSE = https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+GAME = YOU HAVE TO PUT ID'S OF GAME YOU WANT TO IDLE - FOR CSGO IS 730 BECAUSE = https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
 
 https://store.steampowered.com/app/HERE IS YOUR GAME ID/CounterStrike_Global_Offensive/
 
