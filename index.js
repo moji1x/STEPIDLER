@@ -29,7 +29,7 @@ user.on('loggedOn', () => {
 	console.log ('/____//_/ /_____/_/      /___/_____/_____/_____/_/ |_|  ');
 	console.log ('                                                        ');
 	console.log ('Welcome to $tep Idler');
-	console.log('Logged on ' + logOnOptions.accountName + ' @ Idler made by KUMPEL#4808 ');
+	console.log('Logged on ' + logOnOptions.accountName + ' @ Idler made by @Moji#4583 ');
 	user.setPersona(1);
 	gamesPlayed: config.game,
 	user.gamesPlayed(config.game);
@@ -43,7 +43,7 @@ user.on('friendRelationship', (steamid, relationship) => {
     user.chatMessage(steamid, '/pre Hello there! You were auto added by Idler to being keep in friendlist verify Yourself on Discord');
 	user.chatMessage(steamid, '/pre Join my Discord');
 	user.chatMessage(steamid, 'https://discord.gg/9KCP2mg9');
-	user.chatMessage(steamid, "/pre write in discord: !suggest https://steamcommunity.com/profiles/" + steamid + ' @Moji#4583 ');
+	user.chatMessage(steamid, "/pre write in discord: !suggest https://steamcommunity.com/profiles/" + steamid + ' . ');
   }
 });
 
