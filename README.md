@@ -17,9 +17,9 @@ GAME = YOU HAVE TO PUT ID'S OF GAME YOU WANT TO IDLE - FOR CSGO IS 730 BECAUSE =
 https://store.steampowered.com/app/HERE IS YOUR GAME ID/CounterStrike_Global_Offensive/
 
 
-DISCORD: https://discord.gg/N5dx8hUGdy 
+DISCORD: https://discord.io/paidcfg
 
-DISCORD: Moji#4583
+DISCORD: Moji#6384
 
 STEAM:
 
