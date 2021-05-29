@@ -1,3 +1,0 @@
-npm i 
-echo loading...
-start ./config.json
